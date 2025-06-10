@@ -12,7 +12,7 @@ Install with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/gtech-official08/bus-ticket-booking-setup.git
+  git clone https://github.com/DhananjayMallik/bus-ticket-booking-setup.git
 ```
 
 Remove `.git` an `README.md` if you want to push this repo on your github.com.
@@ -20,7 +20,7 @@ Remove `.git` an `README.md` if you want to push this repo on your github.com.
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd bus-ticket-booking-setup
 ```
 
 Install dependencies
@@ -65,7 +65,10 @@ export default {
   darkMode: "class",
 }
 ```
-
+#Backend : 
+1. -----> npm init -y
+2 .----> npm i express dotenv cors mongoose validator jsonwebtoken bcrypt cookie-parser
+   3 .---> npm run dev
 To Enable `Dark & Light Mode` in the system.
 
 
