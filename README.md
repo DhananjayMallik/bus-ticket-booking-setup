@@ -112,24 +112,6 @@ Live Demo:-
 Video Link:- https://www.youtube.com/watch?v=1Guddi2MbOM 
 
 
-## Author
-
-- [@gtechofficial08](https://github.com/gtech-official08)
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates Generator](https://readme.so/)
-
-
-## Support
-
-For support, email gtech.official08@gmail.com or DM us on Instagram.
-
-
-## Appendix
-
-Don't Forgot to Subscribe, Like, Comment, & Share.
 
 
 
