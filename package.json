@@ -14,7 +14,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.2.1",
-    "react-router-dom": "^6.23.1"
+    "react-router-dom": "^6.23.1",
+    "react-toastify": "^11.0.5",
+    "toast": "^0.5.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
@@ -28,5 +30,18 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "This is just a starter template containing Navbar, Footer, and Theme Switcher Section. And also installed the required resources like react icons, framer motion, and other basic requirements.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtech-official08/bus-ticket-booking-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtech-official08/bus-ticket-booking-setup/issues"
+  },
+  "homepage": "https://github.com/gtech-official08/bus-ticket-booking-setup#readme"
 }

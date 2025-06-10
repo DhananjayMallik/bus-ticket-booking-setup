@@ -35,5 +35,15 @@
   border-radius: 8px;
 }
 
+.hero{
+  background: linear-gradient( to right, rgba(0,0,0,0.85 ) , rgba(0,0,0,0.05)) ,url("./assets/bg1.jpg") ;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  
 
+}
 
