@@ -103,13 +103,7 @@ To Enable `Dark & Light Mode` in the system.
 
 
 
-## See Demo
 
-Live Demo:- 
-
-
-### Full Video Tutorial
-Video Link:- https://www.youtube.com/watch?v=1Guddi2MbOM 
 
 
 
